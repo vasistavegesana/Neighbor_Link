@@ -23,4 +23,4 @@ npm install
 # Step 4: Start the development server
 npm run dev
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
