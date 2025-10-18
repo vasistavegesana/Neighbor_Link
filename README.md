@@ -1,7 +1,7 @@
 # NeighborLink
 
 NeighborLink is a community web app that connects neighbors to share skills, offer help, and barter services.  
-Built using **React**, **Vite**, **Tailwind CSS**, and **shadcn-ui**.
+Built using **React**, **Vite**, **Tailwind CSS** and **NodeJS**.
 
 ---
 
